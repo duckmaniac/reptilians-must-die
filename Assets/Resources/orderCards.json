@@ -1,0 +1,102 @@
+[
+    {
+        "title": "Cow",
+        "description": "Just an ordinary cow\n-Will become stronger-",
+        "cost": 1,
+        "attack": 1,
+        "health": 1,
+        "avatarNumber": "0",
+        "isReptilian": 0,
+        "ability":1
+    },
+    {
+        "title": "Adept",
+        "description": "Once he met aliens\n-Immune to aberrations-",
+        "cost": 1,
+        "attack": 1,
+        "health": 2,
+        "avatarNumber": "2",
+        "isReptilian": 0,
+        "ability":3
+    },
+    {
+        "title": "Big Adept",
+        "description": "In school they called him 'Tough Guy'",
+        "cost": 2,
+        "attack": 1,
+        "health": 4,
+        "avatarNumber": "3",
+        "isReptilian": 0,
+        "ability":0
+    },
+    {
+        "title": "Dude with a Knife",
+        "description": "Always keeps a knife on him",
+        "cost": 2,
+        "attack": 3,
+        "health": 1,
+        "avatarNumber": "4",
+        "isReptilian": 0,
+        "ability":0
+    },
+    {
+        "title": "Dude Mimic",
+        "description": "We are so alike!\n-Mimics opposite card-",
+        "cost": 2,
+        "attack": 1,
+        "health": 1,
+        "avatarNumber": "5",
+        "isReptilian": 0,
+        "ability":4
+    },
+    {
+        "title": "5G Tower",
+        "description": "10 times faster than 4G\n-Aberrates neighbours-",
+        "cost": 3,
+        "attack": 0,
+        "health": 4,
+        "avatarNumber": "6",
+        "isReptilian": 0,
+        "ability":2
+    },
+    {
+        "title": "Suspicious Dude",
+        "description": "Seems to have come from another branch\n-Betrays when you're near losing-",
+        "cost": 3,
+        "attack": 4,
+        "health": 4,
+        "avatarNumber": "7",
+        "isReptilian": 0,
+        "ability":6
+    },
+    {
+        "title": "Gym Dude",
+        "description": "Loves lifting weights, hates reptilians",
+        "cost": 4,
+        "attack": 4,
+        "health": 4,
+        "avatarNumber": "8",
+        "isReptilian": 0,
+        "ability":0
+    },
+    {
+        "title": "Armored Dude",
+        "description": "Stuck in a trash can\n-Immune to aberrations-",
+        "cost": 4,
+        "attack": 2,
+        "health": 6,
+        "avatarNumber": "9",
+        "isReptilian": 0,
+        "ability":3
+    },
+    {
+        "title": "Kebab Master",
+        "description": "Beware of his sharpened skewers",
+        "cost": 5,
+        "attack": 5,
+        "health": 5,
+        "avatarNumber": "10",
+        "isReptilian": 0,
+        "ability":0
+    }
+]

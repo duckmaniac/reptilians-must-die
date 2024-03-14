@@ -1,0 +1,10 @@
+{
+    "level":"4",
+    "reptiliansCardNumbers":[10, 10, 10, 11],
+    "playerCardNumbers":[0, 0, 1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5, 6, 7, 7, 8, 8, 9],
+    "reptilianBossName":"Geсky",
+    "reptilianBossHealth":"10",
+    "playerHealth":"30",
+    "bossAvatarNumber":4,
+    "aiMode":1
+}

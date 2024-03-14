@@ -1,0 +1,122 @@
+[
+    {
+        "title": "Dude-Reptilian",
+        "description": "Arrived from the star Thuban",
+        "cost": 1,
+        "attack": 1,
+        "health": 1,
+        "avatarNumber": "11",
+        "isReptilian": 1,
+        "ability":0
+    },
+    {
+        "title": "Handy-Reptilian",
+        "description": "Loves to hug",
+        "cost": 1,
+        "attack": 2,
+        "health": 1,
+        "avatarNumber": "12",
+        "isReptilian": 1,
+        "ability":0
+    },
+    {
+        "title": "Skeptic-Reptilian",
+        "description": "Denies the existence of reptilians",
+        "cost": 2,
+        "attack": 1,
+        "health": 3,
+        "avatarNumber": "13",
+        "isReptilian": 1,
+        "ability":0
+    },
+    {
+        "title": "><=>=",
+        "description": "Is this a reptilian at all?",
+        "cost": 2,
+        "attack": 2,
+        "health": 2,
+        "avatarNumber": "14",
+        "isReptilian": 1,
+        "ability":0
+    },
+    {
+        "title": "Chameleon",
+        "description": "Who am I really?\n-Mimics opposite card-",
+        "cost": 2,
+        "attack": 1,
+        "health": 1,
+        "avatarNumber": "15",
+        "isReptilian": 1,
+        "ability":4
+    },
+    {
+        "title": "Miner-Reptilian",
+        "description": "Builds underground tunnels for reptilian bases",
+        "cost": 3,
+        "attack": 2,
+        "health": 3,
+        "avatarNumber": "16",
+        "isReptilian": 1,
+        "ability":0
+    },
+    {
+        "title": "Big Company Manager",
+        "description": "Don't waste his time",
+        "cost": 3,
+        "attack": 3,
+        "health": 3,
+        "avatarNumber": "17",
+        "isReptilian": 1,
+        "ability":0
+    },
+    {
+        "title": "Dude-Lizard",
+        "description": "Loses his tail all the time\n-Heals 1 HP each turn-",
+        "cost": 4,
+        "attack": 3,
+        "health": 3,
+        "avatarNumber": "18",
+        "isReptilian": 1,
+        "ability":5
+    },
+    {
+        "title": "Ancient Reptilian",
+        "description": "Loves to grumble about the youth",
+        "cost": 4,
+        "attack": 4,
+        "health": 4,
+        "avatarNumber": "19",
+        "isReptilian": 1,
+        "ability":0
+    },
+    {
+        "title": "Leonard",
+        "description": "Hates pizza, loves the ocean",
+        "cost": 5,
+        "attack": 5,
+        "health": 5,
+        "avatarNumber": "20",
+        "isReptilian": 1,
+        "ability":0
+    },
+    {
+        "title": "Minion",
+        "description": "KILL THEM",
+        "cost": 1,
+        "attack": 0,
+        "health": 1,
+        "avatarNumber": "21",
+        "isReptilian": 1,
+        "ability":0
+    },
+    {
+        "title": "Leader's Deputy",
+        "description": "KILL THEM ALL",
+        "cost": 1,
+        "attack": 0,
+        "health": 2,
+        "avatarNumber": "22",
+        "isReptilian": 1,
+        "ability":0
+    }
+]

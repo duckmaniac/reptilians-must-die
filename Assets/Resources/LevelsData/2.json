@@ -1,0 +1,10 @@
+{
+    "level":"2",
+    "reptiliansCardNumbers":[0, 0, 0, 1, 1, 1, 2, 2, 2, 3, 3, 4, 5, 6, 8],
+    "playerCardNumbers":[0, 0, 1, 1, 1, 2, 2, 2, 3, 4, 5, 5, 7, 7, 8],
+    "reptilianBossName":"Slitherstrike",
+    "reptilianBossHealth":"20",
+    "playerHealth":"20",
+    "bossAvatarNumber":2,
+    "aiMode":2
+}
